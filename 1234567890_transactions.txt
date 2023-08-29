@@ -1,0 +1,4 @@
+Deposit: +1000.0
+Initial deposit: +$1000.0
+Withdraw: -100.0
+Deposit: +500.0
